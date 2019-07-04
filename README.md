@@ -1,5 +1,5 @@
 # Web-Crawler
-A simple web crawler that recursively downloads complete website when given a starting URL.
+A simple web crawler or web scraping script that recursively downloads complete website when given a starting URL.
 
 Uses beautifulsoup library. Currently checked and working for static websites.
 
